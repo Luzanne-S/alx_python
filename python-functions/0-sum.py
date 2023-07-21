@@ -1,5 +1,7 @@
+#!/usr/bin/env python3
 def add(a, b):
     return a + b
 
-numbers = add(43,25)
-print(numbers)
+print(add(1, 2))
+print(add(98, 0))
+print(add(100, -2))
